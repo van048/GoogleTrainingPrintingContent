@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleTrainingPrintingContent</string>
+    <string name="print_an_image">Print an Image</string>
+    <string name="printing_html_documents">Printing HTML Documents</string>
+    <string name="start_work">start work</string>
+    <string name="printing_custom_documents">Printing Custom Documents</string>
+</resources>
